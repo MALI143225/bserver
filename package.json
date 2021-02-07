@@ -19,7 +19,8 @@
     "web-vitals": "^1.1.0"
   },
   "scripts": {
-    "start": "nodemon index"
+    "serve":"node index",
+    "start": "node index"
   },
   "eslintConfig": {
     "extends": [
